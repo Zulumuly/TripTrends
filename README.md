@@ -14,3 +14,5 @@ TripTrends — это аналитическое исследование, по�
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
+
+![](image/designer1.jpeg)
